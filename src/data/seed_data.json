@@ -1,0 +1,9084 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Rubén Muñoz",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "rubén.muñoz@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Paz Garcia Garrido",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "paz.garcia.garrido@example.com"
+    },
+    {
+      "id": 3,
+      "name": "WEB/app",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "web/app@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Mantenimiento",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "mantenimiento@example.com"
+    },
+    {
+      "id": 5,
+      "name": "ASyB",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "asyb@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Pieza registro pos.global / servicios digitales",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "pieza.registro.pos.global./.servicios.digitales@example.com"
+    },
+    {
+      "id": 7,
+      "name": "Squads",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "squads@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Autos",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "autos@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Javier Bolaños Martín",
+      "role": "Project Manager",
+      "area": "ASyB",
+      "email": "javier.bolaños.martín@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Yasmina Ben-Marzouk Hidalgo",
+      "role": "Project Manager",
+      "area": "ASyB",
+      "email": "yasmina.ben-marzouk.hidalgo@example.com"
+    },
+    {
+      "id": 11,
+      "name": "Gigi Marin",
+      "role": "Project Manager",
+      "area": "ASyB",
+      "email": "gigi.marin@example.com"
+    },
+    {
+      "id": 12,
+      "name": "Santos Castañé Rodríguez",
+      "role": "Project Manager",
+      "area": "ASyB",
+      "email": "santos.castañé.rodríguez@example.com"
+    },
+    {
+      "id": 13,
+      "name": "Francisco José Sánchez Romero",
+      "role": "Equipo de Frontend",
+      "area": "ASyB",
+      "email": "francisco.josé.sánchez.romero@example.com"
+    },
+    {
+      "id": 14,
+      "name": "Alejandro Exposito Gomez",
+      "role": "Equipo de Frontend",
+      "area": "ASyB",
+      "email": "alejandro.exposito.gomez@example.com"
+    },
+    {
+      "id": 15,
+      "name": "Ruben Montoro Morales",
+      "role": "Equipo de Frontend",
+      "area": "ASyB",
+      "email": "ruben.montoro.morales@example.com"
+    },
+    {
+      "id": 16,
+      "name": "Carlos Arenas Carretero",
+      "role": "Equipo de Frontend",
+      "area": "ASyB",
+      "email": "carlos.arenas.carretero@example.com"
+    },
+    {
+      "id": 17,
+      "name": "Marina Laporte Böni",
+      "role": "Equipo de Frontend",
+      "area": "ASyB",
+      "email": "marina.laporte.böni@example.com"
+    },
+    {
+      "id": 18,
+      "name": "Marta Ocaña Martín",
+      "role": "Equipo de Frontend",
+      "area": "ASyB",
+      "email": "marta.ocaña.martín@example.com"
+    },
+    {
+      "id": 19,
+      "name": "Jonathan Morcillo",
+      "role": "Equipo de Frontend",
+      "area": "ASyB",
+      "email": "jonathan.morcillo@example.com"
+    },
+    {
+      "id": 20,
+      "name": "Amanda Cuervo Sutil",
+      "role": "Equipo de Frontend",
+      "area": "ASyB",
+      "email": "amanda.cuervo.sutil@example.com"
+    },
+    {
+      "id": 21,
+      "name": "Jose Maria Perez Castro",
+      "role": "Equipo de Frontend",
+      "area": "ASyB",
+      "email": "jose.maria.perez.castro@example.com"
+    },
+    {
+      "id": 22,
+      "name": "Manuel Ortiz Galan",
+      "role": "Equipo de Frontend",
+      "area": "ASyB",
+      "email": "manuel.ortiz.galan@example.com"
+    },
+    {
+      "id": 23,
+      "name": "Victor Santos Peinado",
+      "role": "Equipo Backend",
+      "area": "ASyB",
+      "email": "victor.santos.peinado@example.com"
+    },
+    {
+      "id": 24,
+      "name": "William Maximo",
+      "role": "Equipo Backend",
+      "area": "ASyB",
+      "email": "william.maximo@example.com"
+    },
+    {
+      "id": 25,
+      "name": "Carlos Setien Cimas",
+      "role": "Equipo Backend",
+      "area": "ASyB",
+      "email": "carlos.setien.cimas@example.com"
+    },
+    {
+      "id": 26,
+      "name": "Ruth Rodriguez-Manzaneque Lopez",
+      "role": "Equipo Backend",
+      "area": "ASyB",
+      "email": "ruth.rodriguez-manzaneque.lopez@example.com"
+    },
+    {
+      "id": 27,
+      "name": "Raúl Frías Vieco",
+      "role": "Equipo Backend",
+      "area": "ASyB",
+      "email": "raúl.frías.vieco@example.com"
+    },
+    {
+      "id": 28,
+      "name": "Welton Cyriaco",
+      "role": "Equipo Backend",
+      "area": "ASyB",
+      "email": "welton.cyriaco@example.com"
+    },
+    {
+      "id": 29,
+      "name": "Xavier Morillas",
+      "role": "Equipo Backend",
+      "area": "ASyB",
+      "email": "xavier.morillas@example.com"
+    },
+    {
+      "id": 30,
+      "name": "Jorge Garcia Donate",
+      "role": "Equipo Backend",
+      "area": "ASyB",
+      "email": "jorge.garcia.donate@example.com"
+    },
+    {
+      "id": 31,
+      "name": "Edmilson Verona",
+      "role": "Equipo Backend",
+      "area": "ASyB",
+      "email": "edmilson.verona@example.com"
+    },
+    {
+      "id": 32,
+      "name": "Pablo Gomez Berasategui",
+      "role": "Equipo Backend",
+      "area": "ASyB",
+      "email": "pablo.gomez.berasategui@example.com"
+    },
+    {
+      "id": 33,
+      "name": "Lourdes Morente",
+      "role": "Equipo Backend",
+      "area": "ASyB",
+      "email": "lourdes.morente@example.com"
+    },
+    {
+      "id": 34,
+      "name": "Francisco Garde Calvo",
+      "role": "Equipo Drupal",
+      "area": "ASyB",
+      "email": "francisco.garde.calvo@example.com"
+    },
+    {
+      "id": 35,
+      "name": "Jaime Gonzalez Belaire",
+      "role": "Equipo Drupal",
+      "area": "ASyB",
+      "email": "jaime.gonzalez.belaire@example.com"
+    },
+    {
+      "id": 36,
+      "name": "Javier Jimenez Miranda",
+      "role": "Equipo Drupal",
+      "area": "ASyB",
+      "email": "javier.jimenez.miranda@example.com"
+    },
+    {
+      "id": 37,
+      "name": "Ainara Fassi Sousa",
+      "role": "Diseño",
+      "area": "ASyB",
+      "email": "ainara.fassi.sousa@example.com"
+    },
+    {
+      "id": 38,
+      "name": "María del Mar García-Mochales Ruiz",
+      "role": "Diseño",
+      "area": "ASyB",
+      "email": "maría.del.mar.garcía-mochales.ruiz@example.com"
+    },
+    {
+      "id": 39,
+      "name": "Vicent Miñana Gracia",
+      "role": "QA",
+      "area": "ASyB",
+      "email": "vicent.miñana.gracia@example.com"
+    },
+    {
+      "id": 40,
+      "name": "Transformación y tecnología",
+      "role": "QA",
+      "area": "ASyB",
+      "email": "transformación.y.tecnología@example.com"
+    },
+    {
+      "id": 41,
+      "name": "Área digital, clientes y canales",
+      "role": "Subdirectora general",
+      "area": "ASyB",
+      "email": "área.digital,.clientes.y.canales@example.com"
+    },
+    {
+      "id": 42,
+      "name": "Arquitectura",
+      "role": "Subdirectora general",
+      "area": "ASyB",
+      "email": "arquitectura@example.com"
+    },
+    {
+      "id": 43,
+      "name": "Proyectos y servicios digitales (Negocio)",
+      "role": "Subdirectora general",
+      "area": "ASyB",
+      "email": "proyectos.y.servicios.digitales.(negocio)@example.com"
+    },
+    {
+      "id": 44,
+      "name": "Digital health (negocio ASyB)",
+      "role": "Subdirectora general",
+      "area": "ASyB",
+      "email": "digital.health.(negocio.asyb)@example.com"
+    },
+    {
+      "id": 45,
+      "name": "Área digital",
+      "role": "Director",
+      "area": "ASyB",
+      "email": "área.digital@example.com"
+    },
+    {
+      "id": 46,
+      "name": "Clientes y canales",
+      "role": "Director",
+      "area": "ASyB",
+      "email": "clientes.y.canales@example.com"
+    },
+    {
+      "id": 47,
+      "name": "Web/App",
+      "role": "jefe departamento",
+      "area": "ASyB",
+      "email": "web/app@example.com"
+    },
+    {
+      "id": 48,
+      "name": "Yasmina Ben-Marzouk",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "yasmina.ben-marzouk@example.com"
+    },
+    {
+      "id": 49,
+      "name": "Jose María Pérez",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "jose.maría.pérez@example.com"
+    },
+    {
+      "id": 50,
+      "name": "Andrea Cardone",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "andrea.cardone@example.com"
+    },
+    {
+      "id": 51,
+      "name": "Mar García-Mochales Ruiz",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "mar.garcía-mochales.ruiz@example.com"
+    },
+    {
+      "id": 52,
+      "name": "Marina Mínguez",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "marina.mínguez@example.com"
+    },
+    {
+      "id": 53,
+      "name": "Raul Frias Vieco",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "raul.frias.vieco@example.com"
+    },
+    {
+      "id": 54,
+      "name": "Rubén Montoro",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "rubén.montoro@example.com"
+    },
+    {
+      "id": 55,
+      "name": "Pablo Gómez Berasategui",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "pablo.gómez.berasategui@example.com"
+    },
+    {
+      "id": 56,
+      "name": "Miguel Huerta",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "miguel.huerta@example.com"
+    },
+    {
+      "id": 57,
+      "name": "Cristina Wandosell",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "cristina.wandosell@example.com"
+    },
+    {
+      "id": 58,
+      "name": "Vicent Miñana",
+      "role": "Member",
+      "area": "ASyB",
+      "email": "vicent.miñana@example.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "PRJ-1",
+      "code": "",
+      "name": "Evolutivo Dinámico",
+      "block": "ASyB",
+      "pm_gdi": "Alicia",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12626",
+      "code": "BCS-36345",
+      "name": "T020340 - [ASyB] UX/UI - Pre-Proyecto. Nueva Zona Privada ASyB (Fase II)",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Fernando",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-04-11",
+      "end": "2024-05-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12689",
+      "code": "BCS-37209",
+      "name": "ASyB. Pre-proyecto. Nuevo Perfil de Salud (solo UX/UI)",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Fernando",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-04-16",
+      "end": "2024-06-14",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12125",
+      "code": "BCS-37212",
+      "name": "Evolutivo EXCA 2024 - Impacto en ASyB",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Fernando",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-04-22",
+      "end": "2024-09-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12070",
+      "code": "BCS-37094",
+      "name": "S03525 Planes de Acompañamiento en DLK - Seguimiento",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Tania",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-04-30",
+      "end": "2024-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12855",
+      "code": "BCS-38614",
+      "name": "Implementación chatbot EMERGYA en S&B",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Tania",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-05-13",
+      "end": "2024-10-24",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-10926",
+      "code": "BCS-34607",
+      "name": "Integración en contenedores - ASyB (T020329-12) (CM TO-BE Integración del nuevo WC de CM)",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-01",
+      "end": "2024-09-05",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14187",
+      "code": "",
+      "name": "Evolutivo Dinámico 2025",
+      "block": "ASyB",
+      "pm_gdi": "Alicia",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-9",
+      "code": "",
+      "name": "Equipo transversal",
+      "block": "",
+      "pm_gdi": "Yasmina",
+      "pm_sca": "Dani",
+      "status": "Activa",
+      "progress": 0.99,
+      "start": "2025-09-12",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-10",
+      "code": "",
+      "name": "Evolutivo Dinámico 2025 segundo semestre",
+      "block": "ASyB",
+      "pm_gdi": "Yasmina",
+      "pm_sca": "Dani",
+      "status": "Activa",
+      "progress": 0.528,
+      "start": "2025-07-01",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14076",
+      "code": "BCS-47365",
+      "name": "Integración WC Citacion",
+      "block": "ASyB",
+      "pm_gdi": "Yasmina",
+      "pm_sca": "Raúl",
+      "status": "Activa",
+      "progress": 0.99,
+      "start": "2025-01-02",
+      "end": "2025-07-01",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "BCS-41281",
+      "code": "BCS-41281",
+      "name": "Integración en contenedores - ASyB (T020329-12) (CM TO-BE II Integración del nuevo WC de CM)",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-01",
+      "end": "2024-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12283",
+      "code": "BCS-37213",
+      "name": "T030612 - Tomador No Asegurado",
+      "block": "ASyB",
+      "pm_gdi": "Ana",
+      "pm_sca": "Fernando",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-01",
+      "end": "2024-10-01",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-11525",
+      "code": "BCS-38126",
+      "name": "Teledermatologia",
+      "block": "ASyB",
+      "pm_gdi": "Ana",
+      "pm_sca": "Raúl",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-01",
+      "end": "2024-10-29",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12342",
+      "code": "BCS-37555",
+      "name": "Programa de Niño Sano S03710-02-BIS (Habilitar la carga de autorizaciones/precandidatos en salesforce Health)",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Fernando",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-17",
+      "end": "2024-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12078",
+      "code": "BCS-40332",
+      "name": "Controlar el lanzamiento de los formularios de Medallia en función de la aceptación de cookies. Configuración ASyB Web y App. Onetrust",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-07-01",
+      "end": "2024-07-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13194",
+      "code": "BCS-40333",
+      "name": "Bucle IVR clientes portal privados.",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Xavier",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-07-15",
+      "end": "2024-09-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12823",
+      "code": "BCS-37514",
+      "name": "Desarrollar capacidades de integración con Apps de terceros",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Xavier",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-09-09",
+      "end": "2024-12-11",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12838",
+      "code": "BCS-40164",
+      "name": "Desarrollo ASyB - Incorporar planes de Riesgo Cardiovascular en GPA",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Fernando",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-09-01",
+      "end": "2024-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-11473",
+      "code": "",
+      "name": "Integración en contenedores - ASyB - WC Autorizaciones V2",
+      "block": "ASyB",
+      "pm_gdi": "Alicia",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-01-01",
+      "end": "2024-12-12",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13420",
+      "code": "BCS-41424",
+      "name": "Nuevo Perfil de Salud Fase 1 y 2",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Fernando",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-11-01",
+      "end": "2025-07-18",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-11133",
+      "code": "BCS-34605",
+      "name": "S03468 - i4. Patologías: Mejoras GPA - Impacto en ASyB",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Tania",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2023-12-01",
+      "end": "2024-05-13",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-11473",
+      "code": "BCS-35328",
+      "name": "Integración contenedora ASyB - Transaccionales - Mejoras Autorizaciones (T020323) (Padre PPM-9609). Autorizaciones v2",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-01",
+      "end": "2024-07-05",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-11432",
+      "code": "BCS-35327",
+      "name": "Integración contenedora ASyB - Transaccionales - Detalle Recibos y Copagos (T20324) (140)",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-01",
+      "end": "2024-07-06",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12889",
+      "code": "BCS-38733",
+      "name": "CSV Hubspot to SFMC Fase 1",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Fernando",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-01",
+      "end": "2024-10-01",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12826",
+      "code": "BCS-37377",
+      "name": "Marca de cliente premium de MDM a ASyB S03801-01-BIS",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Xavier",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-09-09",
+      "end": "2024-12-11",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12590",
+      "code": "BCS-38333",
+      "name": "Reembolso mascotas en LTC",
+      "block": "LTC",
+      "pm_gdi": "Javi",
+      "pm_sca": "Raúl",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-18",
+      "end": "2024-07-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-28",
+      "code": "",
+      "name": "Acceso a los Cores - Global Policies",
+      "block": "Otros",
+      "pm_gdi": "Gigi",
+      "pm_sca": "R. Quintana",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-05-15",
+      "end": "2024-07-01",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12883",
+      "code": "BCS-37835",
+      "name": "Implementación chatbot EMERGYA en Posición Global",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Raúl",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-05-21",
+      "end": "2024-10-17",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12589",
+      "code": "BCS-38482",
+      "name": "Reembolso mascotas posición global",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Raúl",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-18",
+      "end": "2024-07-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "DM-7610",
+      "code": "BCS-45794",
+      "name": "Actualización SDK Medallia en ASyB + Common Library/Level Error",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Moha",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-02-01",
+      "end": "2025-05-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13637",
+      "code": "BCS-46391",
+      "name": "Comportamiento Cierre Sesion Aplicaciones Web de Clientes ASyB",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Moha",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-02-03",
+      "end": "2025-07-14",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11884",
+      "code": "",
+      "name": "Listar Cardnumber",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-27",
+      "end": "2025-02-21",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14824",
+      "code": "BCS-47334",
+      "name": "Evolutivos Teladoc",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Moha",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-03-03",
+      "end": "2025-04-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14724",
+      "code": "BCS-46273",
+      "name": "Construcción ASYB envío de delegaciones",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Fernando",
+      "status": "Activa",
+      "progress": 0.9990000000000001,
+      "start": "2025-03-03",
+      "end": "2025-10-17",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12941",
+      "code": "BCS-38740",
+      "name": "CDD.06 Uniformidad y homogeneidad de las reglas de calidad en Frontales SCA - Cargas Masivas",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Raúl",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-01",
+      "end": "2025-01-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12801",
+      "code": "BCS-37836",
+      "name": "Disponibilizar idioma en PG para encuestas Medallia",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Raúl",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-01",
+      "end": "2024-07-15",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-38",
+      "code": "",
+      "name": "Validación sobre Registro - LTC y PG",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Raúl",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-26",
+      "end": "2024-06-27",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-39",
+      "code": "",
+      "name": "T070140 – Migración CTRL M",
+      "block": "Registro - PG",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Raúl",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-15",
+      "end": "2024-06-16",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-10928",
+      "code": "BCS-36568",
+      "name": "Integración en contenedores - Web Corporativa (T020329-14)",
+      "block": "Web Pública",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Mar",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-03-01",
+      "end": "2024-05-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-530",
+      "code": "",
+      "name": "EVO - Analítica Venta Cruzada",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Raúl",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-11-01",
+      "end": "2024-12-02",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-562",
+      "code": "",
+      "name": "EVO - Análisis de funcionalidades por BBDD",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Raúl",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-11-28",
+      "end": "2024-12-12",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13594",
+      "code": "BCS-46393",
+      "name": "Comportamiento Cierre Sesión Aplicaciones Web de Clientes PG",
+      "block": "Registro - PG",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Moha",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-02-03",
+      "end": "2025-07-14",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14923",
+      "code": "BCS-48949",
+      "name": "Modificación notificaciones push",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Moha",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-05-05",
+      "end": "2025-06-26",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14921",
+      "code": "BCS-48068",
+      "name": "Actualización componentes segmentables ASYB",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Fernando",
+      "status": "Activa",
+      "progress": 0.9990000000000001,
+      "start": "2025-05-05",
+      "end": "2025-11-29",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11215",
+      "code": "",
+      "name": "Nuevo servicio ASYB para WCs - Search_relations",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-24",
+      "end": "2024-12-05",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-11432",
+      "code": "",
+      "name": "Integración en contenedores - ASyB - WC Recibos y Copagos",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11027",
+      "code": "",
+      "name": "Tarea Facturable \"Revisar id resultado de cuestionario.\": https://scadevelopers.atlassian.net/browse/ASYB-11027",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-02",
+      "end": "2024-10-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13491",
+      "code": "BCS-44204",
+      "name": "Nuevo Gestor Administrativo Premium (calculadas 430 hrs con Moha)",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Moha",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-11-04",
+      "end": "2024-12-19",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-50",
+      "code": "",
+      "name": "Migración PostgreSQL - Pruebas, cambios secret y Pruebas",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-11-04",
+      "end": "2024-12-19",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13261",
+      "code": "BCS-42364",
+      "name": "Gestión de mensajes configurables en Cuadro Médico",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Xavier",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-11-04",
+      "end": "2024-12-19",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-52",
+      "code": "",
+      "name": "Análsis nuevos PPM y/o perfectivos \"historificar\" tablas grandes de BDD",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-11-28",
+      "end": "2024-12-10",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15186",
+      "code": "BCS-50453",
+      "name": "Escalado programa de hospitalización domiciliaria",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Fernando",
+      "status": "Activa",
+      "progress": 0.9990000000000001,
+      "start": "2025-07-27",
+      "end": "2025-11-28",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15421",
+      "code": "",
+      "name": "Autos - Nueva Área Privada",
+      "block": "Registro - PG",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Mar",
+      "status": "Activa",
+      "progress": 0.35,
+      "start": "2025-09-01",
+      "end": "2026-05-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15592",
+      "code": "BCS-51715",
+      "name": "Integración pieza de registro VideoIDGenérico de Diseño y desarrollo de software",
+      "block": "Registro - PG",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Pedro",
+      "status": "Activa",
+      "progress": 0.65,
+      "start": "2025-10-01",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15782",
+      "code": "",
+      "name": "Web Dental WordPress to Drupal",
+      "block": "Web Pública",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Mar",
+      "status": "Activa",
+      "progress": 0.01,
+      "start": "2025-12-01",
+      "end": "2026-05-28",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14237",
+      "code": "",
+      "name": "AutoRegistro Herramientas transversales",
+      "block": "Registro - PG",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Pedro",
+      "status": "Activa",
+      "progress": 0.8,
+      "start": "2025-11-01",
+      "end": "2026-02-28",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15075",
+      "code": "",
+      "name": "Mascotas - Nueva Área Privada",
+      "block": "Registro - PG",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Pedro",
+      "status": "Pendiente",
+      "progress": 0.0,
+      "start": "2025-12-01",
+      "end": "2026-06-19",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-10362",
+      "code": "BCS-42366",
+      "name": "Actualización comunicación Siebel a Salesforce",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Xavier",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-01",
+      "end": "2025-04-01",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13756",
+      "code": "BCS-43265",
+      "name": "Actualización Drupal 10 ASyB",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-11-20",
+      "end": "2025-02-27",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB - 11560",
+      "code": "",
+      "name": "Revisión del Data tracking de iOS",
+      "block": "ASyB",
+      "pm_gdi": "Alicia",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-11-19",
+      "end": "2024-12-11",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11483",
+      "code": "",
+      "name": "LactApp. Integración Acceso Apps Terceros",
+      "block": "ASyB",
+      "pm_gdi": "Gigi",
+      "pm_sca": "Xavier",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-11-25",
+      "end": "2024-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13601",
+      "code": "BCS-46456",
+      "name": "Nuevo plan de acompañamiento a crónicos",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Fernando",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-02-26",
+      "end": "2025-10-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13497",
+      "code": "BCS-45134",
+      "name": "Mi Equipo Médico de Salud en CM Málaga",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Lidia",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-13",
+      "end": "2025-04-04",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "BCS-45793",
+      "code": "BCS-45793",
+      "name": "Actualización Google Health",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Moha",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-27",
+      "end": "2025-03-20",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "BCS-43251",
+      "code": "BCS-43251",
+      "name": "CRMHub Consulta y Modificación casos",
+      "block": "Nuevos Depar",
+      "pm_gdi": "Santos",
+      "pm_sca": "Jaime Benedicto",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-13",
+      "end": "2025-03-05",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "BCS-38925",
+      "code": "BCS-38925",
+      "name": "App ASyB to capacitor",
+      "block": "Nuevos Depar",
+      "pm_gdi": "Santos",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-09-02",
+      "end": "2025-01-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13403",
+      "code": "BCS-44197",
+      "name": "Batch Gestión Automática Incidencias Registro",
+      "block": "Registro - PG",
+      "pm_gdi": "Santos",
+      "pm_sca": "Moha",
+      "status": "Activa",
+      "progress": 0.99,
+      "start": "2024-10-01",
+      "end": "2025-06-18",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13487",
+      "code": "BCS-45411",
+      "name": "Mostrar en PG campos adicionales de la póliza",
+      "block": "Registro - PG",
+      "pm_gdi": "Santos",
+      "pm_sca": "Moha",
+      "status": "Activa",
+      "progress": 0.9990000000000001,
+      "start": "2025-05-09",
+      "end": "2025-07-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13485",
+      "code": "BCS-48379",
+      "name": "Formulario reclamaciones web",
+      "block": "Registro - PG",
+      "pm_gdi": "Santos",
+      "pm_sca": "Mar",
+      "status": "Activa",
+      "progress": 0.99,
+      "start": "2025-04-24",
+      "end": "2025-11-07",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14982",
+      "code": "BCS-48202",
+      "name": "Personalización de actualización de la App Adeslas Salud y Bienestar (Cartelas)",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Moha",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-04-21",
+      "end": "2025-06-18",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15101",
+      "code": "BCS-50392",
+      "name": "CED - Integración SDK en ASYB",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Juanan",
+      "status": "Activa",
+      "progress": 0.8,
+      "start": "2025-07-14",
+      "end": "2026-01-25",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14984",
+      "code": "",
+      "name": "Migración Openshift - Pruebas y gestión de arranque ordenado",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-30",
+      "end": "2024-10-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14985",
+      "code": "",
+      "name": "Actualización ARGO 3.3.0",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-24",
+      "end": "2024-12-13",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14986",
+      "code": "",
+      "name": "Habilitar operaciones para modificar datos de usuarios",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-10",
+      "end": "2024-12-05",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14987",
+      "code": "",
+      "name": "Actualización Front Segmentación a ARGO 6.2.0\nActualización Front Segmentación a ARGO 6.2.0",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-10",
+      "end": "2024-11-18",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14988",
+      "code": "",
+      "name": "Actualización Front Gift a ARGO 6.2.0",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-10",
+      "end": "2024-11-18",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14989",
+      "code": "BCS-48642",
+      "name": "Librería componentes fase 2",
+      "block": "Nuevos Depar",
+      "pm_gdi": "Santos",
+      "pm_sca": "D.Jato",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-04-07",
+      "end": "2025-07-01",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15362",
+      "code": "BCS-51514",
+      "name": "MES - Madrid - fase 0",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Lidia",
+      "status": "Activa",
+      "progress": 0.99,
+      "start": "2025-09-01",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15142",
+      "code": "BCS-52013",
+      "name": "MES - Adeslas Salud - Fase 1",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Lidia",
+      "status": "Activa",
+      "progress": 0.55,
+      "start": "2025-09-01",
+      "end": "2026-06-15",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14167",
+      "code": "BCS-51356",
+      "name": "Actividad Asistencial en Medios Digitales",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Juanan",
+      "status": "Activa",
+      "progress": 0.8,
+      "start": "2025-07-15",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15830",
+      "code": "",
+      "name": "Migración Chat Salesforce a MIAW",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Laura Álvarez",
+      "status": "Activa",
+      "progress": 0.35,
+      "start": "2025-11-06",
+      "end": "2026-01-21",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-10046",
+      "code": "",
+      "name": "Activar TEST Java ASYB",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Activa",
+      "progress": 0.35,
+      "start": "2023-04-05",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-6196",
+      "code": "",
+      "name": "Activar TEST FRONT ASYB",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Activa",
+      "progress": 0.69,
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-633",
+      "code": "",
+      "name": "Redirección LOGOUT PG",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-06-15",
+      "end": "2025-07-10",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11928",
+      "code": "",
+      "name": "Migración ARGO JAVA 3.6.0",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-02-14",
+      "end": "2025-05-14",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12038",
+      "code": "",
+      "name": "Endpoint para eliminar consentimientos TELADOC",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-03-17",
+      "end": "2025-05-13",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12237",
+      "code": "",
+      "name": "Creacion endpoint de mantenimiento para actualizacion de mail",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-03-19",
+      "end": "2025-05-13",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12953",
+      "code": "BCS-38741",
+      "name": "ALH.04 Sincronización online de datos de contactación - MDM a ALH",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Raúl",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-09-16",
+      "end": "2025-03-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12239",
+      "code": "",
+      "name": "Creacion endpoint para la consulta del estado de una newsletter (push o mail)",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-03-24",
+      "end": "2025-05-13",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12623",
+      "code": "",
+      "name": "Refactor user summarized en micro gamification",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-05-20",
+      "end": "2025-06-18",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12624",
+      "code": "",
+      "name": "Refactor user summarized en micro customer",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-05-20",
+      "end": "2025-06-18",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12625",
+      "code": "",
+      "name": "Refactor user summarized en micro health indicator",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-05-20",
+      "end": "2025-06-18",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12983",
+      "code": "",
+      "name": "Actualización ARGO 7.3.1",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-06-01",
+      "end": "2025-06-18",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11819",
+      "code": "",
+      "name": "Reorganización de servicios",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-06-23",
+      "end": "2025-07-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11824",
+      "code": "",
+      "name": "Añadir HUSKY y PRETTIER",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-03-31",
+      "end": "2025-05-13",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-622",
+      "code": "",
+      "name": "Mapeo de datos para BBDD Tarificador",
+      "block": "Tarificador",
+      "pm_gdi": "Javi",
+      "pm_sca": "Mar",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-05-08",
+      "end": "2025-06-18",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14555",
+      "code": "BCS-47144",
+      "name": "Dental Max Rediseñado (CA y CB)",
+      "block": "Tarificador",
+      "pm_gdi": "Javi",
+      "pm_sca": "Mar",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-04-15",
+      "end": "2025-06-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11817",
+      "code": "",
+      "name": "Ordenar Scafolding",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-05-01",
+      "end": "2025-06-18",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12530",
+      "code": "",
+      "name": "Análisis proceso de Login",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-04-25",
+      "end": "2025-06-25",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN-619",
+      "code": "",
+      "name": "Actualizar ARGO Front Snapshot 7.2.0",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-05-05",
+      "end": "2025-05-14",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12903",
+      "code": "",
+      "name": "Revisión e implementación COMMONS",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-05-30",
+      "end": "2025-07-10",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11820",
+      "code": "",
+      "name": "Descomponer help.service",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-07-07",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13356",
+      "code": "",
+      "name": "Actualización ARGO FRONT",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-10901",
+      "code": "",
+      "name": "Revivir Micro DRUPALCACHÉ",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13353",
+      "code": "",
+      "name": "Borrar flujo monopóliza",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13352",
+      "code": "",
+      "name": "Si hay cartela echar a los usuarios",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13499",
+      "code": "",
+      "name": "Crear servicio de Eventos en Commons",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11816",
+      "code": "",
+      "name": "Documentación fichero README",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13542",
+      "code": "",
+      "name": "Mejorar defectos Kiuwan",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-645",
+      "code": "",
+      "name": "Añadir HUSKY y PRETTIER - LTC",
+      "block": "LTC",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-646",
+      "code": "",
+      "name": "Quitar eventos antiguos LTC",
+      "block": "LTC",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-647",
+      "code": "",
+      "name": "Actualización ARGO FRONT LTC",
+      "block": "LTC",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-648",
+      "code": "",
+      "name": "Pasar de Workspace a Monoproyecto ARGO LTC",
+      "block": "LTC",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11818",
+      "code": "",
+      "name": "Descomponer módulo Shared",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-11",
+      "end": "2025-11-06",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13354",
+      "code": "",
+      "name": "Unificación servicios FRONT con BACKEND",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-15",
+      "end": "2025-10-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-7666",
+      "code": "",
+      "name": "Revisión librería (shedLock)",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Activa",
+      "progress": 0.9990000000000001,
+      "start": "2025-07-15",
+      "end": "2025-12-04",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13909",
+      "code": "",
+      "name": "Refactor Notifications",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-10-14",
+      "end": "2025-11-06",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11815",
+      "code": "",
+      "name": "Organización properties front",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-10-14",
+      "end": "2025-11-06",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13970",
+      "code": "",
+      "name": "Envío de PUSH de AGENDA",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Activa",
+      "progress": 0.9,
+      "start": "2025-10-27",
+      "end": "2025-12-04",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13875",
+      "code": "",
+      "name": "API REST Medalia",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Activa",
+      "progress": 0.75,
+      "start": "2025-10-28",
+      "end": "2025-12-04",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13542",
+      "code": "",
+      "name": "Mejorar defectos Kiwuan - Parte 2",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Activa",
+      "progress": 0.3,
+      "start": "2025-11-03",
+      "end": "2025-12-04",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-14072",
+      "code": "",
+      "name": "Modificaciones API H&W",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Activa",
+      "progress": 0.9,
+      "start": "2025-10-27",
+      "end": "2025-12-04",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13629",
+      "code": "",
+      "name": "APP problema menú (Reseña)",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-09-09",
+      "end": "2025-10-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-650",
+      "code": "",
+      "name": "Sustitucion MailSendGrid - Retarus",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-08",
+      "end": "2025-11-06",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-629",
+      "code": "",
+      "name": "Modificación flujo autenticación para creación de leads en SF desde el Agent Search",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-08-08",
+      "end": "2025-11-06",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-14003",
+      "code": "",
+      "name": "Perfectivo CONTACT para mejorar reporte de incidencias",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Stand by",
+      "progress": 0.5,
+      "start": "2025-10-27",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13709",
+      "code": "",
+      "name": "Revisión cachés de micros",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-09-17",
+      "end": "2025-10-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-129",
+      "code": "",
+      "name": "Análisis para login con DNI en lugar de AdeslasCode en TELADOC",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Stand by",
+      "progress": 0.4,
+      "start": "2025-09-01",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-13692",
+      "code": "",
+      "name": "Tiempo de vida de notificaciones para que no se envíen eventos pasados si cae Kafka",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-09-01",
+      "end": "2025-10-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-641",
+      "code": "",
+      "name": "Recompilación Micros Error Kibana",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-07-01",
+      "end": "2025-07-10",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14536",
+      "code": "BCS-47352",
+      "name": "Nuevo producto Total Vital",
+      "block": "Tarificador",
+      "pm_gdi": "Javi",
+      "pm_sca": "Mar",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-20",
+      "end": "2025-05-07",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12008",
+      "code": "",
+      "name": "Eliminar Caché Actualización de datos Teladoc",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-02-20",
+      "end": "2025-04-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-573",
+      "code": "",
+      "name": "Actualización ARGO 7.1.2 FRONT WEB/APP",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-02-01",
+      "end": "2025-04-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-612",
+      "code": "",
+      "name": "Refactor en Details para hacer la variable \"observable\" (asíncrono)",
+      "block": "Registro - PG",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-03-26",
+      "end": "2025-04-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14453",
+      "code": "BCS-45792",
+      "name": "Tokbox",
+      "block": "ASyB",
+      "pm_gdi": "Santos",
+      "pm_sca": "Moha",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-11-28",
+      "end": "2025-02-20",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12319",
+      "code": "",
+      "name": "Actualización de visualición NAVBARS Android 15",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-03-27",
+      "end": "2025-04-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12259",
+      "code": "",
+      "name": "Refactor MEDICAL INFORMATION",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-03-28",
+      "end": "2025-04-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-12201",
+      "code": "",
+      "name": "Dynatrace",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-03-15",
+      "end": "2025-04-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-140",
+      "code": "",
+      "name": "Mantenimientos ASyB",
+      "block": "Mantenimientos",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Activa",
+      "progress": 1.37,
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-141",
+      "code": "",
+      "name": "Mantenimientos Web/App",
+      "block": "Mantenimientos",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Activa",
+      "progress": 0.76,
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15503",
+      "code": "BCS-51793",
+      "name": "Aplicación de criterios de Marca en Área Cliente Salud",
+      "block": "ASyB",
+      "pm_gdi": "Paz",
+      "pm_sca": "Juanan",
+      "status": "Activa",
+      "progress": 0.99,
+      "start": "2025-09-10",
+      "end": "2025-11-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15862",
+      "code": "",
+      "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+      "block": "ASyB",
+      "pm_gdi": "Paz",
+      "pm_sca": "Juanan",
+      "status": "Activa",
+      "progress": 0.2,
+      "start": "2025-11-11",
+      "end": "2026-04-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-15845",
+      "code": "",
+      "name": "Variables Chatbot Emergya",
+      "block": "ASyB",
+      "pm_gdi": "Paz",
+      "pm_sca": "Fernando",
+      "status": "Activa",
+      "progress": 0.45,
+      "start": "2025-11-11",
+      "end": "2026-01-28",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-145",
+      "code": "",
+      "name": "Perfil para Design Sytem",
+      "block": "Servicios digitales",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Guillermo",
+      "status": "Activa",
+      "progress": 0.75,
+      "start": "2025-07-01",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-146",
+      "code": "",
+      "name": "Onboarding/Soporte",
+      "block": "",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Guillermo",
+      "status": "Activa",
+      "progress": 0.0,
+      "start": "2025-06-01",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "ASYB-11635",
+      "code": "",
+      "name": "Subida del SDK Teladoc en iOS 5.12.2",
+      "block": "ASyB",
+      "pm_gdi": "Javi",
+      "pm_sca": "Dani",
+      "status": "Pendiente",
+      "progress": 0.0,
+      "start": "2024-11-29",
+      "end": "2024-12-19",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-148",
+      "code": "",
+      "name": "Telerehabilitación",
+      "block": "",
+      "pm_gdi": "",
+      "pm_sca": "",
+      "status": "Stand by",
+      "progress": 0.0,
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-14527",
+      "code": "BCS-45321",
+      "name": "Preproyecto - Mi Equipo de Salud - Diseño UX/UI",
+      "block": "ASyB",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Lidia",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-13",
+      "end": "2025-04-10",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-11709",
+      "code": "BCS-36282",
+      "name": "Web Pública",
+      "block": "Web Pública",
+      "pm_gdi": "Ana",
+      "pm_sca": "Mar",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-05-27",
+      "end": "2024-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12802",
+      "code": "BCS-37919",
+      "name": "Ampliación restyling web pública",
+      "block": "Web Pública",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Mar",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-10",
+      "end": "2024-06-28",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12521",
+      "code": "BCS-38403",
+      "name": "Ampliación restyling web pública",
+      "block": "Web Pública",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Mar",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-07-01",
+      "end": "2024-07-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13084",
+      "code": "BCS-38722",
+      "name": "Ampliación restyling web pública",
+      "block": "Web Pública",
+      "pm_gdi": "Ana",
+      "pm_sca": "Pedro",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-07-01",
+      "end": "2024-07-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-154",
+      "code": "",
+      "name": "Ampliación restyling web pública",
+      "block": "Web Pública",
+      "pm_gdi": "Ana",
+      "pm_sca": "Mar",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-30",
+      "end": "2024-12-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12886",
+      "code": "BCS-38497",
+      "name": "Proyecto Dependencias Web - Desarrollo Podcasts y Webinars",
+      "block": "Web Pública",
+      "pm_gdi": "Ana",
+      "pm_sca": "Mar",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-01",
+      "end": "2024-10-15",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-12854",
+      "code": "BCS-37929",
+      "name": "Atención a Clientes Digitales con IA – Preguntas frecuentes – Chat - Salud - web SCA",
+      "block": "Web Pública",
+      "pm_gdi": "Ana",
+      "pm_sca": "Mar",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-06-01",
+      "end": "2024-10-11",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13058",
+      "code": "BCS-39759",
+      "name": "Componentes del DS de Web Pública en Angular",
+      "block": "Web Pública",
+      "pm_gdi": "Santos",
+      "pm_sca": "D.Jato",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-09-01",
+      "end": "2025-02-01",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-158",
+      "code": "",
+      "name": "Squad Web/App",
+      "block": "Squad Web/App",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Pedro",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "BCS-45823",
+      "code": "BCS-45823",
+      "name": "Squad Multirramo",
+      "block": "Squad Multirramo",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Pedro",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-02-17",
+      "end": "2025-06-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-160",
+      "code": "",
+      "name": "Contribución de contenido",
+      "block": "Web Pública",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Guillermo",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-161",
+      "code": "",
+      "name": "Fase 2 Restyling web pública",
+      "block": "Web Pública",
+      "pm_gdi": "Ana",
+      "pm_sca": "Guillermo",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-01",
+      "end": "2025-03-17",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13562",
+      "code": "BCS-45409",
+      "name": "Gestión de mensajes configurables en el pedido Cuadro Médico",
+      "block": "Web Pública",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Mar",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-01",
+      "end": "2025-02-07",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-13446",
+      "code": "BCS-41811",
+      "name": "CRMHub + 5 APIs",
+      "block": "Nuevos Depar",
+      "pm_gdi": "Santos",
+      "pm_sca": "Jaime Benedicto",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2024-10-07",
+      "end": "2025-02-07",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-164",
+      "code": "",
+      "name": "Perfiles para marketing",
+      "block": "Nuevos Depar",
+      "pm_gdi": "Rubén",
+      "pm_sca": "Guillermo",
+      "status": "Terminado",
+      "progress": 1.0,
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "LOGIN3C-629",
+      "code": "",
+      "name": "Modificación flujo autenticación para creación de leads en SF desde el Agent Search",
+      "block": "Web Pública",
+      "pm_gdi": "Javi",
+      "pm_sca": "Laura Álvarez",
+      "status": "Stand by",
+      "progress": 0.35,
+      "start": "2025-06-24",
+      "end": "2025-09-09",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-10927",
+      "code": "BCS-36352",
+      "name": "Integración en contenedores - Posición Global (T020329-13)",
+      "block": "Registro - PG",
+      "pm_gdi": "",
+      "pm_sca": "",
+      "status": "Stand by",
+      "progress": 0.0,
+      "start": "2024-03-01",
+      "end": "2024-05-31",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PPM-10928",
+      "code": "",
+      "name": "Modificar parámetro \"robinson\" en tarificador",
+      "block": "Registro - PG",
+      "pm_gdi": "",
+      "pm_sca": "",
+      "status": "Stand by",
+      "progress": 0.0,
+      "start": "2025-03-10",
+      "end": "2025-03-20",
+      "type": "Evolutivo"
+    },
+    {
+      "id": "PRJ-168",
+      "code": "",
+      "name": "Vacaciones",
+      "block": "",
+      "pm_gdi": "",
+      "pm_sca": "",
+      "status": "",
+      "progress": 0.0,
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "type": "Evolutivo"
+    }
+  ],
+  "workload": [
+    {
+      "empId": 14,
+      "month": "Mar",
+      "year": 2025,
+      "load": 0.94,
+      "projects": [
+        {
+          "name": "Comportamiento Cierre Sesion Aplicaciones Web de Clientes ASyB",
+          "load": 0.14
+        },
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.8
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Abr",
+      "year": 2025,
+      "load": 0.8,
+      "projects": [
+        {
+          "name": "Comportamiento Cierre Sesion Aplicaciones Web de Clientes ASyB",
+          "load": 0.05
+        },
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.45
+        },
+        {
+          "name": "Personalización de actualización de la App Adeslas Salud y Bienestar (Cartelas)",
+          "load": 0.17
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.12
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "May",
+      "year": 2025,
+      "load": 0.98,
+      "projects": [
+        {
+          "name": "Comportamiento Cierre Sesion Aplicaciones Web de Clientes ASyB",
+          "load": 0.08
+        },
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.15
+        },
+        {
+          "name": "Personalización de actualización de la App Adeslas Salud y Bienestar (Cartelas)",
+          "load": 0.05
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.08
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.62
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Oct",
+      "year": 2025,
+      "load": 0.85,
+      "projects": [
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.05
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.05
+        },
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.05
+        },
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.2
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.03
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.28
+        },
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.2
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Jun",
+      "year": 2025,
+      "load": 0.6,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.6
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.37,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.2
+        },
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.17
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Sep",
+      "year": 2025,
+      "load": 0.56,
+      "projects": [
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.16
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.04
+        },
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.06
+        },
+        {
+          "name": "Equipo transversal",
+          "load": 0.3
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Dic",
+      "year": 2025,
+      "load": 0.9,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.2
+        },
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.2
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Ene",
+      "year": 2026,
+      "load": 0.7,
+      "projects": [
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.2
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Feb",
+      "year": 2026,
+      "load": 0.7,
+      "projects": [
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.2
+        }
+      ]
+    },
+    {
+      "empId": 14,
+      "month": "Mar",
+      "year": 2026,
+      "load": 0.7,
+      "projects": [
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.2
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Integración WC Citacion",
+          "load": 0.2
+        },
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.8
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Jun",
+      "year": 2025,
+      "load": 0.8,
+      "projects": [
+        {
+          "name": "Integración WC Citacion",
+          "load": 0.16
+        },
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.64
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.7,
+      "projects": [
+        {
+          "name": "Integración WC Citacion",
+          "load": 0.2
+        },
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Integración WC Citacion",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Integración WC Citacion",
+          "load": 0.4
+        },
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.6
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Ene",
+      "year": 2025,
+      "load": 0.8,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.8
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Feb",
+      "year": 2025,
+      "load": 0.8,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.8
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Mar",
+      "year": 2025,
+      "load": 0.8,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.8
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Abr",
+      "year": 2025,
+      "load": 0.8,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.8
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 48,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.92
+        },
+        {
+          "name": "Batch Gestión Automática Incidencias Registro",
+          "load": 0.08
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.45
+        },
+        {
+          "name": "Batch Gestión Automática Incidencias Registro",
+          "load": 0.12
+        },
+        {
+          "name": "Integración WC Citacion",
+          "load": 0.42
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "May",
+      "year": 2025,
+      "load": 0.85,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.28
+        },
+        {
+          "name": "Batch Gestión Automática Incidencias Registro",
+          "load": 0.08
+        },
+        {
+          "name": "Integración WC Citacion",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Jun",
+      "year": 2025,
+      "load": 0.9,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.9
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.77,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.77
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Nov",
+      "year": 2025,
+      "load": 0.83,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.83
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 20,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Jun",
+      "year": 2025,
+      "load": 0.9,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.9
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.5,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.5
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.5
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.5
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.27
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.73
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.2
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.8
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.2
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.8
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.2
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.8
+        }
+      ]
+    },
+    {
+      "empId": 49,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.2
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.8
+        }
+      ]
+    },
+    {
+      "empId": 18,
+      "month": "May",
+      "year": 2025,
+      "load": 0.9,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.9
+        }
+      ]
+    },
+    {
+      "empId": 18,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 18,
+      "month": "Jul",
+      "year": 2025,
+      "load": 2.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 1.0
+        },
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 50,
+      "month": "Dic",
+      "year": 2024,
+      "load": 0.62,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.6
+        },
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.02
+        }
+      ]
+    },
+    {
+      "empId": 50,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.05,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.25
+        },
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.08
+        },
+        {
+          "name": "Perfiles para marketing",
+          "load": 0.38
+        },
+        {
+          "name": "Personalización de actualización de la App Adeslas Salud y Bienestar (Cartelas)",
+          "load": 0.08
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.2
+        },
+        {
+          "name": "Mi Equipo Médico de Salud en CM Málaga",
+          "load": 0.07
+        }
+      ]
+    },
+    {
+      "empId": 50,
+      "month": "Mar",
+      "year": 2025,
+      "load": 0.92,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.2
+        },
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.06
+        },
+        {
+          "name": "Perfiles para marketing",
+          "load": 0.3
+        },
+        {
+          "name": "Personalización de actualización de la App Adeslas Salud y Bienestar (Cartelas)",
+          "load": 0.06
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.24
+        },
+        {
+          "name": "Mi Equipo Médico de Salud en CM Málaga",
+          "load": 0.06
+        }
+      ]
+    },
+    {
+      "empId": 50,
+      "month": "Ene",
+      "year": 2025,
+      "load": 0.76,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.02
+        },
+        {
+          "name": "Perfiles para marketing",
+          "load": 0.5
+        },
+        {
+          "name": "Personalización de actualización de la App Adeslas Salud y Bienestar (Cartelas)",
+          "load": 0.03
+        },
+        {
+          "name": "Mi Equipo Médico de Salud en CM Málaga",
+          "load": 0.21
+        }
+      ]
+    },
+    {
+      "empId": 50,
+      "month": "May",
+      "year": 2025,
+      "load": 0.62,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.12
+        },
+        {
+          "name": "Perfiles para marketing",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 50,
+      "month": "Abr",
+      "year": 2025,
+      "load": 0.5,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 50,
+      "month": "Jun",
+      "year": 2025,
+      "load": 0.5,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 50,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.5,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 50,
+      "month": "Ago",
+      "year": 2025,
+      "load": 0.5,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 51,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfiles para marketing",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Componentes del DS de Web Pública en Angular",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Componentes del DS de Web Pública en Angular",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 16,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Activar TEST Java ASYB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Ene",
+      "year": 2025,
+      "load": 0.8,
+      "projects": [
+        {
+          "name": "Activar TEST Java ASYB",
+          "load": 0.6
+        },
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.2
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.35
+        },
+        {
+          "name": "Squad Multirramo",
+          "load": 0.65
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 25,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "CRMHub + 5 APIs",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "CRMHub + 5 APIs",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "CRMHub Consulta y Modificación casos",
+          "load": 0.88
+        },
+        {
+          "name": "MES - Madrid",
+          "load": 0.12
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.4
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.6
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Ago",
+      "year": 2025,
+      "load": 0.47,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.17
+        },
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.3
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Sep",
+      "year": 2025,
+      "load": 0.9,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.64
+        },
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.18
+        },
+        {
+          "name": "Escalado programa de hospitalización domiciliaria",
+          "load": 0.04
+        },
+        {
+          "name": "Construcción ASYB envío de delegaciones",
+          "load": 0.04
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Oct",
+      "year": 2025,
+      "load": 0.93,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.62
+        },
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.3
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.27,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.05
+        },
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.22
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 31,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "Dic",
+      "year": 2024,
+      "load": 0.4,
+      "projects": [
+        {
+          "name": "Actualización Drupal 10 ASyB",
+          "load": 0.4
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Actualización Drupal 10 ASyB",
+          "load": 0.2
+        },
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.8
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "Abr",
+      "year": 2025,
+      "load": 0.93,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.93
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "Sep",
+      "year": 2025,
+      "load": 0.26,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.12
+        },
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.14
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "Jun",
+      "year": 2025,
+      "load": 0.35,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.35
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.2,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.2
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "Oct",
+      "year": 2025,
+      "load": 0.88,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.88
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "Nov",
+      "year": 2025,
+      "load": 0.73,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.15
+        },
+        {
+          "name": "Web Dental WordPress to Drupal",
+          "load": 0.38
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.2
+        }
+      ]
+    },
+    {
+      "empId": 34,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Web Dental WordPress to Drupal",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 13,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        },
+        {
+          "name": "Actualización SDK Medallia en ASyB + Common Library/Level Error",
+          "load": 0.0
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.9
+        },
+        {
+          "name": "Actualización SDK Medallia en ASyB + Common Library/Level Error",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.5
+        },
+        {
+          "name": "Actualización SDK Medallia en ASyB + Common Library/Level Error",
+          "load": 0.37
+        },
+        {
+          "name": "Comportamiento Cierre Sesion Aplicaciones Web de Clientes ASyB",
+          "load": 0.07
+        },
+        {
+          "name": "Comportamiento Cierre Sesión Aplicaciones Web de Clientes PG",
+          "load": 0.07
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Abr",
+      "year": 2025,
+      "load": 0.87,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.47
+        },
+        {
+          "name": "Actualización SDK Medallia en ASyB + Common Library/Level Error",
+          "load": 0.2
+        },
+        {
+          "name": "Comportamiento Cierre Sesion Aplicaciones Web de Clientes ASyB",
+          "load": 0.1
+        },
+        {
+          "name": "Comportamiento Cierre Sesión Aplicaciones Web de Clientes PG",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "May",
+      "year": 2025,
+      "load": 0.94,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.6
+        },
+        {
+          "name": "Actualización SDK Medallia en ASyB + Common Library/Level Error",
+          "load": 0.1
+        },
+        {
+          "name": "Comportamiento Cierre Sesion Aplicaciones Web de Clientes ASyB",
+          "load": 0.03
+        },
+        {
+          "name": "Comportamiento Cierre Sesión Aplicaciones Web de Clientes PG",
+          "load": 0.03
+        },
+        {
+          "name": "Actualización componentes segmentables ASYB",
+          "load": 0.12
+        },
+        {
+          "name": "Modificación notificaciones push",
+          "load": 0.06
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.7
+        },
+        {
+          "name": "Comportamiento Cierre Sesion Aplicaciones Web de Clientes ASyB",
+          "load": 0.04
+        },
+        {
+          "name": "Comportamiento Cierre Sesión Aplicaciones Web de Clientes PG",
+          "load": 0.04
+        },
+        {
+          "name": "Actualización componentes segmentables ASYB",
+          "load": 0.2
+        },
+        {
+          "name": "Modificación notificaciones push",
+          "load": 0.02
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.88,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.67
+        },
+        {
+          "name": "Actualización SDK Medallia en ASyB + Common Library/Level Error",
+          "load": 0.03
+        },
+        {
+          "name": "Comportamiento Cierre Sesion Aplicaciones Web de Clientes ASyB",
+          "load": 0.01
+        },
+        {
+          "name": "Comportamiento Cierre Sesión Aplicaciones Web de Clientes PG",
+          "load": 0.01
+        },
+        {
+          "name": "Actualización componentes segmentables ASYB",
+          "load": 0.13
+        },
+        {
+          "name": "Modificación notificaciones push",
+          "load": 0.02
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Ago",
+      "year": 2025,
+      "load": 0.2,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.2
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Sep",
+      "year": 2025,
+      "load": 0.84,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.08
+        },
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.13
+        },
+        {
+          "name": "Squad Web/App",
+          "load": 0.4
+        },
+        {
+          "name": "Construcción ASYB envío de delegaciones",
+          "load": 0.06
+        },
+        {
+          "name": "Escalado programa de hospitalización domiciliaria",
+          "load": 0.04
+        },
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.13
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.05
+        },
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.35
+        },
+        {
+          "name": "Squad Web/App",
+          "load": 0.5
+        },
+        {
+          "name": "Escalado programa de hospitalización domiciliaria",
+          "load": 0.05
+        },
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.05
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.5
+        },
+        {
+          "name": "Squad Web/App",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.5
+        },
+        {
+          "name": "Squad Web/App",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.5
+        },
+        {
+          "name": "Squad Web/App",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.5
+        },
+        {
+          "name": "Squad Web/App",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 11,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.5
+        },
+        {
+          "name": "Squad Web/App",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 35,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 9,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Fase 2 Restyling web pública",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Fase 2 Restyling web pública",
+          "load": 0.25
+        },
+        {
+          "name": "Squad Web/App",
+          "load": 0.75
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 36,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 19,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 30,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Jun",
+      "year": 2025,
+      "load": 0.92,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.92
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.63,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.63
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Sep",
+      "year": 2025,
+      "load": 0.86,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.14
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.72
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.2
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.62
+        },
+        {
+          "name": "Telerehabilitación",
+          "load": 0.12
+        },
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 0.05
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.8
+        },
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 0.1
+        },
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.6
+        },
+        {
+          "name": "Telerehabilitación",
+          "load": 0.2
+        },
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 0.1
+        },
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.6
+        },
+        {
+          "name": "Telerehabilitación",
+          "load": 0.2
+        },
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 0.1
+        },
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.6
+        },
+        {
+          "name": "Telerehabilitación",
+          "load": 0.2
+        },
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 0.1
+        },
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 33,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.6
+        },
+        {
+          "name": "Telerehabilitación",
+          "load": 0.2
+        },
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 0.1
+        },
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.61
+        },
+        {
+          "name": "Mi Equipo Médico de Salud en CM Málaga",
+          "load": 0.06
+        },
+        {
+          "name": "Tokbox",
+          "load": 0.3
+        },
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.03
+        },
+        {
+          "name": "Actualización SDK Medallia en ASyB + Historificación de tablas",
+          "load": 0.0
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.85
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.15
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.68
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.08
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.24
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.4
+        },
+        {
+          "name": "Vacaciones",
+          "load": 0.5
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.05
+        },
+        {
+          "name": "Vacaciones",
+          "load": 0.5
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.45
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.02,
+      "projects": [
+        {
+          "name": "Mi Equipo Médico de Salud en CM Málaga",
+          "load": 0.88
+        },
+        {
+          "name": "Tokbox",
+          "load": 0.12
+        },
+        {
+          "name": "Actualización SDK Medallia en ASyB + Historificación de tablas",
+          "load": 0.03
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mi Equipo Médico de Salud en CM Málaga",
+          "load": 0.25
+        },
+        {
+          "name": "Vacaciones",
+          "load": 0.75
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Vacaciones",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Vacaciones",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Vacaciones",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Vacaciones",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Vacaciones",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Vacaciones",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "May",
+      "year": 2025,
+      "load": 0.9,
+      "projects": [
+        {
+          "name": "Mostrar en PG campos adicionales de la póliza",
+          "load": 0.25
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.25
+        },
+        {
+          "name": "Personalización de actualización de la App Adeslas Salud y Bienestar (Cartelas)",
+          "load": 0.4
+        }
+      ]
+    },
+    {
+      "empId": 22,
+      "month": "Jun",
+      "year": 2025,
+      "load": 0.97,
+      "projects": [
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.85
+        },
+        {
+          "name": "Modificación notificaciones push",
+          "load": 0.04
+        },
+        {
+          "name": "Comportamiento Cierre Sesion Aplicaciones Web de Clientes ASyB",
+          "load": 0.04
+        },
+        {
+          "name": "Comportamiento Cierre Sesión Aplicaciones Web de Clientes PG",
+          "load": 0.04
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.26
+        },
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.74
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025",
+          "load": 0.1
+        },
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.9
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "May",
+      "year": 2025,
+      "load": 0.85,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.47
+        },
+        {
+          "name": "Modificación notificaciones push",
+          "load": 0.38
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.45,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.45
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "Ago",
+      "year": 2025,
+      "load": 0.1,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "Sep",
+      "year": 2025,
+      "load": 0.64,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.02
+        },
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.58
+        },
+        {
+          "name": "Onboarding/Soporte",
+          "load": 0.04
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 17,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 52,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Contribución de contenido",
+          "load": 0.5
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 52,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 52,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 52,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 52,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 52,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 52,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 52,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 52,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 52,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 52,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Multirramo",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 53,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 54,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfil para Design Sytem",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 54,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfil para Design Sytem",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 54,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfil para Design Sytem",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 54,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfil para Design Sytem",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 54,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfil para Design Sytem",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 54,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfil para Design Sytem",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 54,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfil para Design Sytem",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 54,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfil para Design Sytem",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 54,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfil para Design Sytem",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 54,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Perfil para Design Sytem",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 12,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.2
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.5
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.3
+        }
+      ]
+    },
+    {
+      "empId": 12,
+      "month": "Jun",
+      "year": 2025,
+      "load": 0.83,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.08
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.35
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.38
+        },
+        {
+          "name": "CED - Integración SDK en ASYB",
+          "load": 0.03
+        }
+      ]
+    },
+    {
+      "empId": 12,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.78,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.08
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.4
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.3
+        }
+      ]
+    },
+    {
+      "empId": 12,
+      "month": "Sep",
+      "year": 2025,
+      "load": 0.96,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.24
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.24
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.08
+        },
+        {
+          "name": "CED - Integración SDK en ASYB",
+          "load": 0.16
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.24
+        }
+      ]
+    },
+    {
+      "empId": 12,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.1,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.3
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.15
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.05
+        },
+        {
+          "name": "CED - Integración SDK en ASYB",
+          "load": 0.15
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.45
+        }
+      ]
+    },
+    {
+      "empId": 12,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.17
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.05
+        },
+        {
+          "name": "CED - Integración SDK en ASYB",
+          "load": 0.3
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.4
+        },
+        {
+          "name": "Migración Chat Salesforce a MIAW",
+          "load": 0.08
+        }
+      ]
+    },
+    {
+      "empId": 12,
+      "month": "Ago",
+      "year": 2025,
+      "load": 0.4,
+      "projects": [
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.4
+        }
+      ]
+    },
+    {
+      "empId": 12,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "CED - Integración SDK en ASYB",
+          "load": 0.3
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.3
+        },
+        {
+          "name": "Telerehabilitación",
+          "load": 0.3
+        },
+        {
+          "name": "Migración Chat Salesforce a MIAW",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 12,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "CED - Integración SDK en ASYB",
+          "load": 0.3
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.3
+        },
+        {
+          "name": "Telerehabilitación",
+          "load": 0.3
+        },
+        {
+          "name": "Migración Chat Salesforce a MIAW",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 12,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "CED - Integración SDK en ASYB",
+          "load": 0.3
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.3
+        },
+        {
+          "name": "Telerehabilitación",
+          "load": 0.3
+        },
+        {
+          "name": "Migración Chat Salesforce a MIAW",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 12,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "CED - Integración SDK en ASYB",
+          "load": 0.3
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.3
+        },
+        {
+          "name": "Telerehabilitación",
+          "load": 0.3
+        },
+        {
+          "name": "Migración Chat Salesforce a MIAW",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "CRMHub + 5 APIs",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "CRMHub + 5 APIs",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "CRMHub Consulta y Modificación casos",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.38
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.62
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Ago",
+      "year": 2025,
+      "load": 0.47,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.17
+        },
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.3
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.1,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.7
+        },
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.3
+        },
+        {
+          "name": "Construcción ASYB envío de delegaciones",
+          "load": 0.04
+        },
+        {
+          "name": "Escalado programa de hospitalización domiciliaria",
+          "load": 0.06
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.07,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.85
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.05
+        },
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.1
+        },
+        {
+          "name": "Escalado programa de hospitalización domiciliaria",
+          "load": 0.08
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Nov",
+      "year": 2025,
+      "load": 0.97,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.65
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.32
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Madrid",
+          "load": 0.1
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.9
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 28,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.3,
+      "projects": [
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.3
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Feb",
+      "year": 2025,
+      "load": 0.88,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.7
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.17
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Mar",
+      "year": 2025,
+      "load": 0.88,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.3
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.58
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Abr",
+      "year": 2025,
+      "load": 0.5,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.3
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.2
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "May",
+      "year": 2025,
+      "load": 0.4,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.3
+        },
+        {
+          "name": "Nuevo plan de acompañamiento a crónicos",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.05,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.05
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Ago",
+      "year": 2025,
+      "load": 0.05,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.05
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Sep",
+      "year": 2025,
+      "load": 0.65,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.05
+        },
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.06
+        },
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.12
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.12
+        },
+        {
+          "name": "Equipo transversal",
+          "load": 0.3
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Oct",
+      "year": 2025,
+      "load": 0.88,
+      "projects": [
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.05
+        },
+        {
+          "name": "Actualización componentes segmentables ASYB",
+          "load": 0.03
+        },
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.05
+        },
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.15
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.1
+        },
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Nov",
+      "year": 2025,
+      "load": 0.69,
+      "projects": [
+        {
+          "name": "Actualización componentes segmentables ASYB",
+          "load": 0.03
+        },
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.01
+        },
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.15
+        },
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Dic",
+      "year": 2025,
+      "load": 0.65,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.15
+        },
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Ene",
+      "year": 2026,
+      "load": 0.65,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.15
+        },
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Feb",
+      "year": 2026,
+      "load": 0.65,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.15
+        },
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 24,
+      "month": "Mar",
+      "year": 2026,
+      "load": 0.65,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 0.15
+        },
+        {
+          "name": "Equipo transversal",
+          "load": 0.5
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Dic",
+      "year": 2024,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Ene",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Feb",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Mar",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Abr",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "May",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Jun",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Jul",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 29,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Squad Web/App",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 26,
+      "month": "May",
+      "year": 2025,
+      "load": 0.9,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.12
+        },
+        {
+          "name": "Personalización de actualización de la App Adeslas Salud y Bienestar (Cartelas)",
+          "load": 0.28
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.25
+        },
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.25
+        }
+      ]
+    },
+    {
+      "empId": 26,
+      "month": "Abr",
+      "year": 2025,
+      "load": 0.62,
+      "projects": [
+        {
+          "name": "Personalización de actualización de la App Adeslas Salud y Bienestar (Cartelas)",
+          "load": 0.38
+        },
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.25
+        }
+      ]
+    },
+    {
+      "empId": 26,
+      "month": "Jun",
+      "year": 2025,
+      "load": 0.64,
+      "projects": [
+        {
+          "name": "Personalización de actualización de la App Adeslas Salud y Bienestar (Cartelas)",
+          "load": 0.04
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.6
+        }
+      ]
+    },
+    {
+      "empId": 26,
+      "month": "Jul",
+      "year": 2025,
+      "load": 0.75,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.5
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.15
+        },
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 26,
+      "month": "Ago",
+      "year": 2025,
+      "load": 0.55,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico",
+          "load": 0.25
+        },
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.15
+        },
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.15
+        }
+      ]
+    },
+    {
+      "empId": 26,
+      "month": "Sep",
+      "year": 2025,
+      "load": 0.82,
+      "projects": [
+        {
+          "name": "Formulario reclamaciones web",
+          "load": 0.36
+        },
+        {
+          "name": "Centro de Especialidades Digitales",
+          "load": 0.2
+        },
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 0.26
+        }
+      ]
+    },
+    {
+      "empId": 26,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 26,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 26,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Autos - Nueva Área Privada",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 18,
+      "month": "Ago",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 18,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 18,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 18,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 18,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 55,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 55,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 55,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 55,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 55,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 55,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 55,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 23,
+      "month": "Sep",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 23,
+      "month": "Oct",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 23,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 23,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 23,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 23,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 23,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Mantenimientos ASyB",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 56,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 56,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 56,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 56,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 56,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Evolutivo Dinámico 2025 segundo semestre",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 57,
+      "month": "Nov",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Migración Chat Salesforce a MIAW",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 57,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Migración Chat Salesforce a MIAW",
+          "load": 0.38
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.62
+        }
+      ]
+    },
+    {
+      "empId": 57,
+      "month": "Ene",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Migración Chat Salesforce a MIAW",
+          "load": 0.15
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.85
+        }
+      ]
+    },
+    {
+      "empId": 57,
+      "month": "Feb",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Migración Chat Salesforce a MIAW",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 57,
+      "month": "Mar",
+      "year": 2026,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "Migración Chat Salesforce a MIAW",
+          "load": 1.0
+        }
+      ]
+    },
+    {
+      "empId": 58,
+      "month": "Nov",
+      "year": 2025,
+      "load": 0.4,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.1
+        },
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.3
+        }
+      ]
+    },
+    {
+      "empId": 58,
+      "month": "Dic",
+      "year": 2025,
+      "load": 1.0,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.34
+        },
+        {
+          "name": "Nuevo Perfil de Salud Fase 1 y 2",
+          "load": 0.48
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.18
+        }
+      ]
+    },
+    {
+      "empId": 58,
+      "month": "Ene",
+      "year": 2026,
+      "load": 0.78,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.1
+        },
+        {
+          "name": "Aplicación de criterios de Marca en Área Cliente Salud Fase 2",
+          "load": 0.68
+        }
+      ]
+    },
+    {
+      "empId": 58,
+      "month": "Feb",
+      "year": 2026,
+      "load": 0.1,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.1
+        }
+      ]
+    },
+    {
+      "empId": 58,
+      "month": "Mar",
+      "year": 2026,
+      "load": 0.1,
+      "projects": [
+        {
+          "name": "MES - Adeslas Salud - Fase 1",
+          "load": 0.1
+        }
+      ]
+    }
+  ],
+  "deployments": [
+    {
+      "id": "DEP-1",
+      "date": "2026-01-05",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-2",
+      "date": "2025-12-22",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-01-05)"
+    },
+    {
+      "id": "DEP-3",
+      "date": "2026-01-19",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-4",
+      "date": "2026-01-05",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-01-19)"
+    },
+    {
+      "id": "DEP-5",
+      "date": "2026-02-02",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-6",
+      "date": "2026-01-19",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-02-02)"
+    },
+    {
+      "id": "DEP-7",
+      "date": "2026-02-16",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-8",
+      "date": "2026-02-02",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-02-16)"
+    },
+    {
+      "id": "DEP-9",
+      "date": "2026-03-04",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-10",
+      "date": "2026-02-18",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-03-04)"
+    },
+    {
+      "id": "DEP-11",
+      "date": "2026-03-18",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-12",
+      "date": "2026-03-04",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-03-18)"
+    },
+    {
+      "id": "DEP-13",
+      "date": "2026-04-08",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-14",
+      "date": "2026-03-25",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-04-08)"
+    },
+    {
+      "id": "DEP-15",
+      "date": "2026-04-22",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-16",
+      "date": "2026-04-08",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-04-22)"
+    },
+    {
+      "id": "DEP-17",
+      "date": "2026-05-06",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-18",
+      "date": "2026-04-22",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-05-06)"
+    },
+    {
+      "id": "DEP-19",
+      "date": "2026-05-20",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-20",
+      "date": "2026-05-06",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-05-20)"
+    },
+    {
+      "id": "DEP-21",
+      "date": "2026-06-03",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-22",
+      "date": "2026-05-20",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-06-03)"
+    },
+    {
+      "id": "DEP-23",
+      "date": "2026-06-17",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-24",
+      "date": "2026-06-03",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-06-17)"
+    },
+    {
+      "id": "DEP-25",
+      "date": "2026-07-01",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-26",
+      "date": "2026-06-17",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-07-01)"
+    },
+    {
+      "id": "DEP-27",
+      "date": "2026-07-15",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-28",
+      "date": "2026-07-01",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-07-15)"
+    },
+    {
+      "id": "DEP-29",
+      "date": "2026-08-05",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-30",
+      "date": "2026-07-22",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-08-05)"
+    },
+    {
+      "id": "DEP-31",
+      "date": "2026-08-19",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-32",
+      "date": "2026-08-05",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-08-19)"
+    },
+    {
+      "id": "DEP-33",
+      "date": "2026-09-09",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-34",
+      "date": "2026-08-26",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-09-09)"
+    },
+    {
+      "id": "DEP-35",
+      "date": "2026-09-23",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-36",
+      "date": "2026-09-09",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-09-23)"
+    },
+    {
+      "id": "DEP-37",
+      "date": "2026-10-07",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-38",
+      "date": "2026-09-23",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-10-07)"
+    },
+    {
+      "id": "DEP-39",
+      "date": "2026-10-21",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-40",
+      "date": "2026-10-07",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-10-21)"
+    },
+    {
+      "id": "DEP-41",
+      "date": "2026-11-04",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-42",
+      "date": "2026-10-21",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-11-04)"
+    },
+    {
+      "id": "DEP-43",
+      "date": "2026-11-18",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-44",
+      "date": "2026-11-04",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-11-18)"
+    },
+    {
+      "id": "DEP-45",
+      "date": "2026-12-02",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-46",
+      "date": "2026-11-18",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-12-02)"
+    },
+    {
+      "id": "DEP-47",
+      "date": "2026-12-16",
+      "type": "Despliegue",
+      "area": "Digitalización",
+      "desc": "Despliegue Digitalización"
+    },
+    {
+      "id": "DEP-48",
+      "date": "2026-12-02",
+      "type": "Aviso",
+      "area": "Digitalización",
+      "desc": "Aviso: subida en 10 días laborables (2026-12-16)"
+    }
+  ]
+}
