@@ -253,9 +253,9 @@ const Projects = () => {
                                     const alertRow = delayed ? 'bg-red-50' : '';
                                     const alertLeft = delayed ? 'border-l-4 border-red-300' : '';
                                     return (
-                                    <tr key={project.id} className={`${alertRow} hover:bg-slate-50 transition-colors`}>
-                                        <td className={`px-6 py-4 text-sm text-slate-500 ${alertLeft}`}>
-                                            <div className="flex items-center gap-2">
+                                        <tr key={project.id} className={`${alertRow} hover:bg-slate-50 transition-colors`}>
+                                            <td className={`px-6 py-4 text-sm text-slate-500 ${alertLeft}`}>
+                                                <div className="flex items-center gap-2">
                                                 <button
                                                     onClick={() => openInfo(project)}
                                                     className="text-slate-400 hover:text-slate-700"
@@ -283,14 +283,14 @@ const Projects = () => {
                                                 )}
                                             </div>
                                         </td>
-                                        <td className="px-6 py-4 text-sm text-slate-600">{project.block || 'N/A'}</td>
-                                        <td className="px-6 py-4">
+                                        <td className={`px-6 py-4 text-sm ${delayed ? 'text-red-700' : 'text-slate-600'}`}>{project.block || 'N/A'}</td>
+                                        <td className={`px-6 py-4 ${delayed ? 'text-red-700' : 'text-slate-600'}`}>
                                             <div className="text-sm font-medium text-slate-900">{project.name}</div>
                                             <div className="text-xs text-slate-500">{project.type}</div>
                                         </td>
-                                        <td className="px-6 py-4 text-sm text-slate-600">{project.hours ?? 'N/A'}</td>
-                                        <td className="px-6 py-4 text-sm text-slate-600">{formatDate(project.start)}</td>
-                                        <td className="px-6 py-4 text-sm text-slate-600">{formatDate(project.end)}</td>
+                                        <td className={`px-6 py-4 text-sm ${delayed ? 'text-red-700' : 'text-slate-600'}`}>{project.hours ?? 'N/A'}</td>
+                                        <td className={`px-6 py-4 text-sm ${delayed ? 'text-red-700' : 'text-slate-600'}`}>{formatDate(project.start)}</td>
+                                        <td className={`px-6 py-4 text-sm ${delayed ? 'text-red-700' : 'text-slate-600'}`}>{formatDate(project.end)}</td>
                                         <td className="px-6 py-4">
                                             <div className="flex items-center space-x-2">
                                                 <ProgressBar progress={project.progress} />
@@ -315,8 +315,9 @@ const Projects = () => {
                                         <td className="px-6 py-4">
                                             <StatusBadge status={project.status} />
                                         </td>
-                                    </tr>
-                                ))}
+                                        </tr>
+                                    );
+                                })}
                             </tbody>
                         </table>
                     </div>
